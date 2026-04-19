@@ -4,3 +4,8 @@
 # OS / editor noise
 .DS_Store
 Thumbs.db
+
+# Node / Playwright
+node_modules/
+playwright/.auth/
+playwright/.profile/
